@@ -1,6 +1,10 @@
 # flutterappfaldonado
 
-A new Flutter application.
+Flutter ile Native olarak geliştirdiğim ilk uygulamam Faldonado.
+
+Back-end olarak Firebase kullanıldı.
+
+İlk uygulamam olmasından ötürü yoğun miktarda spaghetti içerir :)
 
 ## Getting Started
 
