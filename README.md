@@ -12,3 +12,7 @@ Back-end olarak Firebase kullanıldı.
 
 Uygulamanın içeriğine dair biraz daha fazla fotoğraf görmek isterseniz siteme ekledim oradan da fikir sahibi olabilirsiniz. 
 [Kaynak Sitem](https://mertcankiyak.com/flutter-fal-uygulamasi-faldonado-firebase-ile/)
+
+## Önemli Not
+
+Uygulama da Firebase kullandığım için google-services.json dosyasını, kendi Firebase dosyanızla değiştirmeniz gerekiyor. 
