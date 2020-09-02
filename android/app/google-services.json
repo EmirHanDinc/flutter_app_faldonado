@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "409879465242",
+    "firebase_url": "https://faldonadodenemesi.firebaseio.com",
+    "project_id": "faldonadodenemesi",
+    "storage_bucket": "faldonadodenemesi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409879465242:android:cc980bb7b18fb8ee3770a3",
+        "android_client_info": {
+          "package_name": "com.mertcankiyak.flutterappfaldonado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409879465242-giglmp5i3icc4iulq6lvu8nbl7lqalod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt11ePJ8bWlgBCsNgVt-3soQZYNnSTeCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409879465242-giglmp5i3icc4iulq6lvu8nbl7lqalod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
